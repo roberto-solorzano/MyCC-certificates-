@@ -20,4 +20,4 @@ I have successfully completed training at MyComputerCareer, gaining hands-on exp
 
 ---
 
- Certificate Verification: You can view my verified certificate or credentials [here]().
+ Certificate Verification: You can view my verified certificate or credentials [here](https://github.com/roberto-solorzano/MyCC-certificates-/blob/main/Net%20I%20Cert%208.2026%20148%20(2).pdf).
